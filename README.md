@@ -2,6 +2,7 @@
 
 
 [Watch video](https://www.youtube.com/watch?v=yazTxDFBqBg)
+
 <a href="https://www.youtube.com/watch?v=yazTxDFBqBg">
   <img src="thumbnail.PNG" width="33%" alt="Video Thumbnail">
 </a>
