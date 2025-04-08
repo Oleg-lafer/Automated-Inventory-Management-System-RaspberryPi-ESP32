@@ -1,5 +1,8 @@
 # Smart Warehouse Management System with Raspberry Pi, ESP32, and Weight Sensor
 
+[Watch the video](https://youtube.com/shorts/awPoVs4OAxM?feature=share)
+
+
 ## Project Overview
 
 This project implements a **Smart Warehouse Management System** utilizing **Raspberry Pi**, **ESP32**, and a **weight sensor**. The system is designed to automatically monitor and classify inventory, specifically vegetables, based on weight measurements and image capture. By leveraging a weight sensor connected to an ESP32 microcontroller, the system triggers image capture for machine learning-based classification. This intelligent solution can be scaled to handle inventory management in warehouses, optimizing the process of tracking and categorizing items in real time.
