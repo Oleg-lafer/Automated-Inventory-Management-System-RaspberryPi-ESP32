@@ -1,7 +1,7 @@
 # Smart Warehouse Management System with Raspberry Pi, ESP32, and Weight Sensor
 
 
-[Watch video](https://www.youtube.com/watch?v=yazTxDFBqBg)
+[Demo video](https://www.youtube.com/watch?v=yazTxDFBqBg)
 
 <a href="https://www.youtube.com/watch?v=yazTxDFBqBg">
   <img src="thumbnail.PNG" width="33%" alt="Video Thumbnail">
