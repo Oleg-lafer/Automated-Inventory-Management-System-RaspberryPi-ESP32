@@ -1,7 +1,7 @@
 # Automated Inventory Management System with Raspberry Pi, ESP32, and Weight Sensor
 
 
-[Automated Inventory Management System Demo video](https://www.youtube.com/watch?v=yazTxDFBqBg)
+[Video: Automated Inventory Management System Demo](https://www.youtube.com/watch?v=yazTxDFBqBg)
 
 <a href="https://www.youtube.com/watch?v=yazTxDFBqBg">
   <img src="thumbnail.PNG" width="33%" alt="Video Thumbnail">
